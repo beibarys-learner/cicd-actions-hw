@@ -4,8 +4,8 @@
 2. Создайте 2 workflow
 
 - Последовательные Lint, Test, Deploy on push со скриптами
-  lint
-  test
-  build
+  - lint
+  - test
+  - build
 - Output Event Details on issues
-  echo event details с помощью github, issues context
+  - echo event details с помощью github, issues context
