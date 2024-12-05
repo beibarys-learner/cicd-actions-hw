@@ -9,3 +9,7 @@
   - build
 - Output Event Details on issues
   - echo event details с помощью github, issues context
+
+---
+
+Learner
